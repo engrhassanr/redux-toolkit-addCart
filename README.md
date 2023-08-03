@@ -1,6 +1,4 @@
 # Getting Started with Create React App
-file:///home/ahr/Pictures/Screenshots/Screenshot%20from%202023-08-03%2018-55-27.png
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
