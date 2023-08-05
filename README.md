@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-https://github.com/engrhassanr/redux-toolkit-addCart/issues/1#issue-1835144667
+![Screenshot from 2023-08-03 18-55-27](https://github.com/engrhassanr/redux-toolkit-addCart/assets/93262654/ab4e6249-1007-4533-8090-5b4c1dc36b8c)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
